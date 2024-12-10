@@ -1,0 +1,9 @@
+﻿name,Waste,Fresh fruits and vegetables,Frozen fish,Ready-to-eat,Fresh meat,Processed meat,Pasta,Canned fish
+Waste,0,0,0,0,0,0,0,0
+Fresh fruits and vegetables,0.4,0,0,0.6,0,0,0,0
+Frozen fish,0.6,0,0,0.4,0,0,0,0
+Ready-to-eat,1,0,0,0,0,0,0,0
+Fresh meat,0.2,0,0,0.3,0,0.5,0,0
+Processed meat,1,0,0,0,0,0,0,0
+Pasta,0.6,0,0,0,0,0,0.4,0
+Canned fish,0.7,0,0,0.3,0,0,0,0

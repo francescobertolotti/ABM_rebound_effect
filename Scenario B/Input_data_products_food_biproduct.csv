@@ -1,0 +1,3 @@
+﻿p-name,p-price,p-sustainability,p-quality,p-shelf-life,p-price-min,p-prod-cost-min,p-price-max,p-sustainability-min,p-sustainability-max,p-quality-min,p-quality-max,color,p-stock-target
+Fresh fruits and vegetables,4.5,0.65,0.85,14,3.15,2.6775,5.85,0.455,0.845,0.68,1,15,10
+Ready-to-eat,21.5,0.55,0.55,11,15.05,12.7925,27.95,0.385,0.715,0.44,0.66,25,5
