@@ -1,8 +1,0 @@
-﻿p-name,p-price,p-sustainability,p-quality,p-shelf-life,p-price-min,p-prod-cost-min,p-price-max,p-sustainability-min,p-sustainability-max,p-quality-min,p-quality-max,color,p-stock-target
-Fresh fruits and vegetables,4.5,0.65,0.85,14,3.15,2.6775,5.85,0.455,0.845,0.68,1,15,10
-Frozen fish,23,0.59,0.8,105,16.1,13.685,29.9,0.413,0.767,0.64,0.96,20,8
-Ready-to-eat,21.5,0.55,0.55,11,15.05,12.7925,27.95,0.385,0.715,0.44,0.66,25,5
-Fresh meat,13,0.25,0.6,7,9.1,7.735,16.9,0.175,0.325,0.48,0.72,45,6
-Processed meat,17,0.46,0.45,6,11.9,10.115,22.1,0.322,0.598,0.36,0.54,55,4
-Pasta,3,0.63,0.8,347.5,2.1,1.785,3.9,0.441,0.819,0.64,0.96,65,8
-Canned fish,35,0.52,0.7,375,24.5,20.825,45.5,0.364,0.676,0.56,0.84,70,7
